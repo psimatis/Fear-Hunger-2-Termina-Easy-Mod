@@ -8,7 +8,7 @@ The path should be:
     
     "C:\Program Files (x86)\Steam\steamapps\common\Fear & Hunger 2 Termina\www\data"
 
-<img src="./girl_location.png" style="width:50%" title="The mod in action">
+<img src="./girl_location.png" style="width:60%" title="The mod in action">
 
 If done correctly, the Girl appears behind you on the train (see picture) after the character history. Interact with her to get the items. 
 The mod does not affect any other part of the game.
